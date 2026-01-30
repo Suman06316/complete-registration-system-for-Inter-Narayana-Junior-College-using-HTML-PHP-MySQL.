@@ -1,0 +1,2 @@
+# complete-registration-system-for-Inter-Narayana-Junior-College-using-HTML-PHP-MySQL.
+This project is a simple Student Registration System developed using HTML, PHP, and MySQL for Inter Narayana Junior College. The system allows students to register by submitting their personal and academic details through a user-friendly web form. The submitted data is securely processed by a PHP backend and stored in a MySQL database.
